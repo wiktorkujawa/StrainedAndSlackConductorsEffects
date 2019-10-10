@@ -1,4 +1,4 @@
-# EffectsOfShortAndCircuitCurrentOnStrainedAndSlackConductors
+# Effects of short-circuit Current On Strained And SlackConductors
 Program allow to calculate effects of short-circuit currents on slack and strained conductors.
 ## Used technologies and interface presentation
 Application was written in C(calculations) + Octave(plots).Program is just a beta version focused on calculation part. Future version will contain advanced GUI instead of console.
